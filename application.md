@@ -1,5 +1,5 @@
 <span
-style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 55px; height: 55px;">![](images/logo.png)</span>
+style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 55px; height: 55px;">![](images/IAM-ICON-BLUE.png)</span>
 
 <span class="c11"></span>
 
@@ -15,7 +15,7 @@ style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0
 
 <span class="c8"></span>
 
-<span class="c17">Application to the Miami College of Design</span> {#h.xp5nadzf3rar .c10}
+<span class="c17">Application to the Miami College of Design</span>
 ===================================================================
 
 <span class="c4"></span>
@@ -28,7 +28,7 @@ answered.</span>
 
 <span class="c6"></span>
 
-### <span class="c17">Personal </span><span class="c17">Information</span><span class="c17">  </span> {#h.gjdgxs .c13}
+### <span class="c17">Personal </span><span class="c17">Information</span><span class="c17">  </span>
 
 <span class="c4"></span>
 
@@ -102,7 +102,7 @@ class="c0">\*</span>
 
 <span class="c6"></span>
 
-### <span class="c17">Contact Details</span> {#h.yrv3tdn5cp7q .c13}
+### <span class="c17">Contact Details</span>
 
 <span class="c4"></span>
 
@@ -187,7 +187,7 @@ class="c4">\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 <span class="c15"></span>
 
-### <span class="c17">Family</span> {#h.erdy37anw66n .c13}
+### <span class="c17">Family</span>
 
 <span class="c4"></span>
 
@@ -351,7 +351,7 @@ class="c4">\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 <span class="c15"></span>
 
-### <span class="c17">Education</span> {#h.wfuikawesxkx .c13}
+### <span class="c17">Education</span>
 
 <span class="c4"></span>
 
@@ -459,7 +459,7 @@ class="c4">\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 <span class="c6"></span>
 
-### <span class="c17">Personal Essay</span> {#h.3d4enc2ujtif .c13}
+### <span class="c17">Personal Essay</span>
 
 <span class="c4"></span>
 
